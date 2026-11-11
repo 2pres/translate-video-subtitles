@@ -1,0 +1,13 @@
+{
+  "domain": "replace-with-video-domain",
+  "entries": [
+    {
+      "canonical": "Claude Code",
+      "aliases": ["cloud code", "clawed code"],
+      "target": "Claude Code",
+      "preserve": true,
+      "strict_aliases": true,
+      "evidence": "official product page or user-supplied source"
+    }
+  ]
+}

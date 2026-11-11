@@ -1,0 +1,24 @@
+{
+  "domain": "AI and software development",
+  "entries": [
+    {"canonical": "Anthropic", "aliases": ["and tropic", "anthropic AI"], "target": "Anthropic", "preserve": true, "strict_aliases": false, "evidence": "official brand spelling"},
+    {"canonical": "Claude", "aliases": ["clawed", "cloud"], "target": "Claude", "preserve": true, "strict_aliases": false, "evidence": "official model name"},
+    {"canonical": "Claude Code", "aliases": ["cloud code", "clawed code"], "target": "Claude Code", "preserve": true, "strict_aliases": false, "evidence": "official product name"},
+    {"canonical": "OpenAI", "aliases": ["open AI"], "target": "OpenAI", "preserve": true, "strict_aliases": false, "evidence": "official brand spelling"},
+    {"canonical": "ChatGPT", "aliases": ["chat GPT", "chat GBT"], "target": "ChatGPT", "preserve": true, "strict_aliases": false, "evidence": "official product name"},
+    {"canonical": "Codex", "aliases": ["code x", "codexx"], "target": "Codex", "preserve": true, "strict_aliases": false, "evidence": "official product name"},
+    {"canonical": "GitHub", "aliases": ["git hub"], "target": "GitHub", "preserve": true, "strict_aliases": false, "evidence": "official brand spelling"},
+    {"canonical": "JavaScript", "aliases": ["java script"], "target": "JavaScript", "preserve": true, "strict_aliases": false, "evidence": "official language name"},
+    {"canonical": "TypeScript", "aliases": ["type script"], "target": "TypeScript", "preserve": true, "strict_aliases": false, "evidence": "official language name"},
+    {"canonical": "Next.js", "aliases": ["next JS", "next jay ess"], "target": "Next.js", "preserve": true, "strict_aliases": false, "evidence": "official framework name"},
+    {"canonical": "Vercel", "aliases": ["verse cell", "ver sell"], "target": "Vercel", "preserve": true, "strict_aliases": false, "evidence": "official brand spelling"},
+    {"canonical": "npm", "aliases": ["NPM"], "target": "npm", "preserve": true, "strict_aliases": false, "evidence": "official CLI spelling"},
+    {"canonical": "npx", "aliases": ["NPX"], "target": "npx", "preserve": true, "strict_aliases": false, "evidence": "official CLI spelling"},
+    {"canonical": "API", "aliases": ["A P I"], "target": "API", "preserve": true, "strict_aliases": false, "evidence": "standard acronym"},
+    {"canonical": "SDK", "aliases": ["S D K"], "target": "SDK", "preserve": true, "strict_aliases": false, "evidence": "standard acronym"},
+    {"canonical": "CLI", "aliases": ["C L I"], "target": "CLI", "preserve": true, "strict_aliases": false, "evidence": "standard acronym"},
+    {"canonical": "MCP", "aliases": ["M C P"], "target": "MCP", "preserve": true, "strict_aliases": false, "evidence": "Model Context Protocol acronym"},
+    {"canonical": "LLM", "aliases": ["L L M"], "target": "LLM", "preserve": true, "strict_aliases": false, "evidence": "standard acronym"},
+    {"canonical": "RAG", "aliases": ["rag"], "target": "RAG", "preserve": true, "strict_aliases": false, "evidence": "retrieval-augmented generation acronym"}
+  ]
+}
